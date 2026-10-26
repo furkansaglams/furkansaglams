@@ -42,7 +42,7 @@
 ### TEDAŞ Dijital Atölye – Tablet
 `iPad` `AR` · Etiqa Bilişim
 
-[![Videoyu izle / Watch video](https://img.youtube.com/vi/DIJITAL_ATOLYE_TABLET_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=DIJITAL_ATOLYE_TABLET_ID)
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/DIJITAL_ATOLYE_TABLET_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=DIJITAL_ATOLYE_TABLET_ID](https://www.youtube.com/playlist?list=PLaTN3FQb2mXg))
 
 **EN** — iPad training app where electricity distribution equipment is examined part by part on 3D models, fault-clearing steps are simulated, equipment is shown at real scale in AR and digital experiments can be run.
 - Develop new scenarios and content across the four modules and revise existing scenarios.
