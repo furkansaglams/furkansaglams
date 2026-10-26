@@ -131,19 +131,42 @@ Etiqa Bilişim · Social Sciences University of Ankara (ASBÜ)
 
 ## Experience · Deneyim
 
-| Company · Şirket | Role · Pozisyon | Dates · Tarih |
+**EN**
+
+| Company | Role | Dates |
 |---|---|---|
 | Etiqa Bilişim Hizmetleri A.Ş. | Unity VR/AR Developer | Apr 2025 – Present |
-| DGH Yazılım Tic. Ltd. Şti. | Game Developer · Oyun Geliştirici | Feb 2024 – Apr 2025 |
-| Velo Game Studios | Game Developer Intern · Stajyer | Jan 2024 – Mar 2024 |
-| Superwolf Bilişim | Game Developer (contract) · Sözleşmeli | Jan 2023 – Feb 2024 |
+| DGH Yazılım Tic. Ltd. Şti. | Game Developer | Feb 2024 – Apr 2025 |
+| Velo Game Studios | Game Developer (internship) | Jan 2024 – Mar 2024 |
+| Superwolf Bilişim | Game Developer (contract) | Jan 2023 – Feb 2024 |
 
-**Education · Eğitim:** İnönü University, B.Sc. Computer Engineering · Bilgisayar Mühendisliği, 2020–2024 · GPA 3.69 / 4.00
+**Education:** İnönü University, B.Sc. in Computer Engineering, 2020–2024 · GPA 3.69 / 4.00
+
+**TR**
+
+| Şirket | Pozisyon | Tarih |
+|---|---|---|
+| Etiqa Bilişim Hizmetleri A.Ş. | Unity VR/AR Developer | Nis 2025 – Devam ediyor |
+| DGH Yazılım Tic. Ltd. Şti. | Oyun Geliştirici | Şub 2024 – Nis 2025 |
+| Velo Game Studios | Oyun Geliştirici (staj) | Oca 2024 – Mar 2024 |
+| Superwolf Bilişim | Oyun Geliştirici (sözleşmeli) | Oca 2023 – Şub 2024 |
+
+**Eğitim:** İnönü Üniversitesi, Bilgisayar Mühendisliği (Lisans), 2020–2024 · GANO 3,69 / 4,00
 
 ## Skills · Yetkinlikler
+
+**EN**
 
 **Programming:** Unity · C#<br>
 **Software:** Object-oriented programming · Maintainable software architecture · Design patterns<br>
 **VR / AR:** PC VR · Android (APK) VR · VR interaction mechanics · Mobile AR (iPadOS)<br>
 **Pipeline:** Addressables · Unity CCD · Unity Localization (RTL) · Builds and store releases (Meta Store, App Store)<br>
 **Tools:** Git / GitHub · Jira · Trello · Google Sheets · Character Creator
+
+**TR**
+
+**Motor ve dil:** Unity · C#<br>
+**Yazılım:** Nesne tabanlı programlama · Sürdürülebilir yazılım mimarisi · Tasarım desenleri<br>
+**VR / AR:** PC VR · Android (APK) VR · VR etkileşim mekanikleri · Mobil AR (iPadOS)<br>
+**Süreçler:** Addressables · Unity CCD · Unity Localization (RTL) · Build ve mağaza yayını (Meta Store, App Store)<br>
+**Araçlar:** Git / GitHub · Jira · Trello · Google Sheets · Character Creator
