@@ -17,7 +17,7 @@
 ### TEDAŞ Dijital Atölye – VR
 `PC VR` `Android (APK)` · Etiqa Bilişim
 
-<!-- VIDEO: Bu satırı silip videoyu buraya sürükle-bırak (en fazla 10 MB). / Drag and drop the video here. -->
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/DIJITAL_ATOLYE_VR_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=DIJITAL_ATOLYE_VR_ID)
 
 **EN** — VR training app where electricity distribution crews practice the operations they face in the field, from safety procedures to equipment use, in a virtual environment true to real life.
 - Develop new scenarios, revise existing ones and split long scenarios into sub-scenarios.
@@ -42,7 +42,7 @@
 ### TEDAŞ Dijital Atölye – Tablet
 `iPad` `AR` · Etiqa Bilişim
 
-<!-- VIDEO: Bu satırı silip videoyu buraya sürükle-bırak (en fazla 10 MB). / Drag and drop the video here. -->
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/DIJITAL_ATOLYE_TABLET_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=DIJITAL_ATOLYE_TABLET_ID)
 
 **EN** — iPad training app where electricity distribution equipment is examined part by part on 3D models, fault-clearing steps are simulated, equipment is shown at real scale in AR and digital experiments can be run.
 - Develop new scenarios and content across the four modules and revise existing scenarios.
@@ -67,7 +67,7 @@
 ### BMC Tank Wheel Replacement Demo · BMC Tank Tekerleği Değişimi Demosu
 `VR` · Etiqa Bilişim
 
-<!-- VIDEO: Bu satırı silip videoyu buraya sürükle-bırak (en fazla 10 MB). / Drag and drop the video here. -->
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/BMC_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=BMC_ID)
 
 **EN** — VR training demo where users carry out a tank wheel replacement step by step with natural hand interaction. I developed all of the demo's interaction mechanics; steps such as removing bolts with a drill and lifting the track with a jack are performed with real hand movements.
 
@@ -78,7 +78,7 @@
 ### Cat Phobia Demo · Kedi Korkusu Demosu
 Etiqa Bilişim · Social Sciences University of Ankara (ASBÜ)
 
-<!-- VIDEO: Bu satırı silip videoyu buraya sürükle-bırak (en fazla 10 MB). / Drag and drop the video here. -->
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/KEDI_KORKUSU_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=KEDI_KORKUSU_ID)
 
 **EN** — Built with psychologists at Social Sciences University of Ankara to help people overcome a fear of cats step by step, through scenarios such as watching cat videos and petting a cat. I set up the demo's codebase, gave technical support to the intern team building the scenarios and was the team's first point of contact during development.
 
@@ -89,7 +89,7 @@ Etiqa Bilişim · Social Sciences University of Ankara (ASBÜ)
 ### VR Training for Children with Autism · Otizmli Çocuklar İçin VR Eğitimi
 `VR` · DGH Yazılım
 
-<!-- VIDEO: Bu satırı silip videoyu buraya sürükle-bırak (en fazla 10 MB). / Drag and drop the video here. -->
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/OTIZM_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=OTIZM_ID)
 
 **EN** — VR training app that teaches children with autism basic communication skills through step-by-step prompts and short video cues. I added new features, implemented user data submission for the server-based login flow and created child characters with Character Creator.
 
@@ -100,7 +100,7 @@ Etiqa Bilişim · Social Sciences University of Ankara (ASBÜ)
 ### VR Driving Simulation · VR Sürüş Simülasyonu
 `VR` · DGH Yazılım
 
-<!-- VIDEO: Bu satırı silip videoyu buraya sürükle-bırak (en fazla 10 MB). / Drag and drop the video here. -->
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/SURUS_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=SURUS_ID)
 
 **EN** — VR driving simulation that realistically recreates sudden braking and a crash.
 
@@ -111,7 +111,7 @@ Etiqa Bilişim · Social Sciences University of Ankara (ASBÜ)
 ### Attention Maze Game · Dikkat Labirenti
 `2D` · DGH Yazılım
 
-<!-- VIDEO: Bu satırı silip videoyu buraya sürükle-bırak (en fazla 10 MB). / Drag and drop the video here. -->
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/LABIRENT_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=LABIRENT_ID)
 
 **EN** — 2D maze game for measuring attention: users draw a path on a touchscreen to finish the maze without hitting obstacles.
 
@@ -119,7 +119,7 @@ Etiqa Bilişim · Social Sciences University of Ankara (ASBÜ)
 
 ## Earlier Work · Önceki Çalışmalar
 
-<!-- VIDEO: Bu satırı silip videoyu buraya sürükle-bırak (en fazla 10 MB). / Drag and drop the video here. -->
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/ONCEKI_CALISMALAR_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=ONCEKI_CALISMALAR_ID)
 
 **EN**
 - **Velo Game Studios (internship):** Developed a Subway Surfers–style endless runner demo under the guidance of an experienced mentor and restructured the project based on code review feedback.
