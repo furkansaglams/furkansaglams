@@ -71,9 +71,9 @@
 ### BMC Tank Wheel Replacement Demo · BMC Tank Tekerleği Değişimi Demosu
 `VR` · Etiqa Bilişim
 
-[![Videoyu izle / Watch video](https://img.youtube.com/vi/BMC_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=BMC_ID)
+[![Videoyu izle / Watch video](https://img.youtube.com/vi/BMC_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=BMC_ID](https://youtu.be/G23w_qqGXqY))
 
-▶ **[Videoyu izle / Watch video](https://www.youtube.com/watch?v=BMC_ID)**
+▶ **[Videoyu izle / Watch video]([https://www.youtube.com/watch?v=BMC_ID](https://youtu.be/G23w_qqGXqY))**
 
 **EN** — VR training demo where users carry out a tank wheel replacement step by step with natural hand interaction. I developed all of the demo's interaction mechanics; steps such as removing bolts with a drill and lifting the track with a jack are performed with real hand movements.
 
