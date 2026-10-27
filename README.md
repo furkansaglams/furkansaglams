@@ -17,7 +17,9 @@
 ### TEDAŞ Dijital Atölye – VR
 `PC VR` `Android (APK)` · Etiqa Bilişim
 
-▶ **[Videoları izle / Watch videos](https://www.youtube.com/playlist?list=PLfvYXcRrFeVY)**
+[![Videoları izle / Watch videos](https://img.youtube.com/vi/xrZ9ArtR90Y/hqdefault.jpg)](https://www.youtube.com/watch?v=xrZ9ArtR90Y&list=PLfvYXcRrFeVY)
+
+▶ **[Videoları izle / Watch videos](https://www.youtube.com/watch?v=xrZ9ArtR90Y&list=PLfvYXcRrFeVY)**
 
 **EN** — VR training app where electricity distribution crews practice the operations they face in the field, from safety procedures to equipment use, in a virtual environment true to real life.
 - Develop new scenarios, revise existing ones and split long scenarios into sub-scenarios.
